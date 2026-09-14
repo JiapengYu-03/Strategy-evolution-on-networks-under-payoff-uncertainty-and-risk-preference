@@ -16,23 +16,15 @@ Crucial functions:
 
 --f_cal_remeet_time_four: function to calculate four-dimensional coalescence time for any network.
 
---f_get_bcratio_accumulate: function to calculate the critical benefit-to-cost ratio of any higher-order networks based on the accumulated payoff.
+--f_get_bcratio_average: function to calculate the critical benefit-to-cost ratio of any networks under payoff uncertainty and risk preference.
 
---f_get_bcratio_average_type1: function to calculate the critical benefit-to-cost ratio of any higher-order networks based on the uncoupled average payoff.
+An important example is provided to show the calculation of the critical benefit-to-cost ratio of a given well-mixed network:
 
---f_get_bcratio_average_type2: function to calculate the critical benefit-to-cost ratio of any higher-order networks based on the coupled average payoff.
-
-Three examples are provided to show the calculation of the critical benefit-to-cost ratio of a given higher-order network based on the accumulated payoff:
-
---Main_higher_order_star.m: calculate the critical benefit-to-cost ratio of higher-order star networks.
-
---Main_conjoin_well_mixed.m: calculate the critical benefit-to-cost ratio of conjoined complete networks.
-
---Main_conjoin_rich_club.m: calculate the critical benefit-to-cost ratio of conjoined rich club networks.
+--Main_well_mixed.m: calculate the critical benefit-to-cost ratio of a given well-mixed network.
 
 QUESTIONS
 ---------
 
 For any question about this program, please contact
 
-Dr. Anzhi Sheng, Email: saz2019@pku.edu.cn
+Dr. Jiapeng Yu, Email: 2501111719@stu.pku.edu.cn
