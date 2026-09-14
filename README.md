@@ -18,9 +18,9 @@ Crucial functions:
 
 --f_get_bcratio_average: function to calculate the critical benefit-to-cost ratio of any networks under payoff uncertainty and risk preference.
 
-An important example is provided to show the calculation of the critical benefit-to-cost ratio of a given well-mixed network:
+An important example is provided to show the calculation of the critical benefit-to-cost ratio of a given complete graph:
 
---Main_well_mixed.m: calculate the critical benefit-to-cost ratio of a given well-mixed network.
+--Main_well_mixed.m: calculate the critical benefit-to-cost ratio of a given complete graph.
 
 QUESTIONS
 ---------
